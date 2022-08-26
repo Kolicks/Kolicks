@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ricard Casas</h1>
+<h1 align="center">Hi, I'm Ricard Casas</h1>
 <h3 align="center">Automation and Industrial Electronic Engineering</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kolicks&label=Profile%20views&color=0e75b6&style=flat" alt="kolicks" /> </p>
