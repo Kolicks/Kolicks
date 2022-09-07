@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Kolicks](https://github.com/Kolicks)
 
-- 💬 Ask me about **IoT, microcontrollers, microprocessors & microsystems, RESTFULL API**
+- 💬 Ask me about **IoT, microcontrollers, microprocessors & microsystems, API**
 
 - 📫 How to reach me **ricaolmo@gmail.com**
 
