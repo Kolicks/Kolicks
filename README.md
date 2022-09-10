@@ -23,4 +23,3 @@
 
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kolicks&show_icons=true&locale=en&layout=compact" alt="kolicks" /></p> -->
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="d251121a-aac8-48dc-9edb-dfb7c2e5c256" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
